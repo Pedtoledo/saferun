@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('/index');
+    return view('/auth/login');
 });
 Route::get('contato', 'SiteController@contato')->name('contato');
 Route::get('sobre', 'SiteController@sobre')->name('sobre');

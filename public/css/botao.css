@@ -1,0 +1,60 @@
+
+.btn-safe {
+ font-family: C;
+  color: #fff;
+  background-color: #4288A0;
+  border-color: #337ab7;
+}
+
+.btn-safe:focus,
+.btn-safe.focus {
+  color: #fff;
+  background-color: #286090;
+  border-color: #122b40;
+}
+.btn-safe:hover {
+  color: #fff;
+  background-color: #286090;
+  border-color: #204d74;
+}
+.btn-safe:active,
+.btn-safe.active,
+.open > .dropdown-toggle.btn-safe {
+  color: #fff;
+  background-color: #286090;
+  border-color: #204d74;
+}
+.btn-safe:active:hover,
+.btn-safe.active:hover,
+.open > .dropdown-toggle.btn-safe:hover,
+.btn-safe:active:focus,
+.btn-safe.active:focus,
+.open > .dropdown-toggle.btn-safe:focus,
+.btn-safe:active.focus,
+.btn-safe.active.focus,
+.open > .dropdown-toggle.btn-safe.focus {
+  color: #fff;
+  background-color: #204d74;
+  border-color: #122b40;
+}
+.btn-safe:active,
+.btn-safe.active,
+.open > .dropdown-toggle.btn-safe {
+  background-image: none;
+}
+.btn-safe.disabled:hover,
+.btn-safe[disabled]:hover,
+fieldset[disabled] .btn-safe:hover,
+.btn-safe.disabled:focus,
+.btn-safe[disabled]:focus,
+fieldset[disabled] .btn-safe:focus,
+.btn-safe.disabled.focus,
+.btn-safe[disabled].focus,
+fieldset[disabled] .btn-safe.focus {
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+.btn-safe .badge {
+  color: #337ab7;
+  background-color: #fff;
+}
