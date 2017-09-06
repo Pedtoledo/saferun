@@ -89,7 +89,7 @@
 
 
 
-<img src="css/vieira.png" width="200" align="left"/> <p align="left"> &nbsp; Leonardo Vieira, 17 anos. <br>&nbsp; Nasceu em Mogi Mirim - SP. <br>
+<img src="img/Vieira.png" width="200" align="left"/> <p align="left"> &nbsp; Leonardo Vieira, 17 anos. <br>&nbsp; Nasceu em Mogi Mirim - SP. <br>
 &nbsp; Responsável por: Programação de WebSite e Desenvolvimento de WebSite 
 <br>
 <br>
@@ -99,7 +99,7 @@
 <br>
 <br>
 <br>
-<img src="css/toledo.png" width="200" align="right"/> <p align="right"> Pedro Henrique Toledo, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
+<img src="img/Toledo.png" width="200" align="right"/> <p align="right"> Pedro Henrique Toledo, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
 &nbsp; Responsável por: Programação de WebSite e Banco de Dados.&nbsp;
 <br>
 <br>
@@ -109,7 +109,7 @@
 <br>
 <br>
 <br>
-<img src="css/adriana.png" width="200" align="left"/> <p align="left"> &nbsp; Adriana Silva Vilanova, 17 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
+<img src="img/adriana.png" width="200" align="left"/> <p align="left"> &nbsp; Adriana Silva Vilanova, 17 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
 &nbsp; Responsável por: Design e Documentação.
 <br>
 <br>
@@ -119,7 +119,7 @@
 <br>
 <br>
 <br>
-<img src="css/gigante.png" width="200" align="right"/> <p align="right">  Gabriel Victhor Rondon Carneiro, 17 anos.&nbsp; <br> Nasceu em Jaguariúna- SP.&nbsp;  <br>
+<img src="img/gabriel.png" width="200" align="right"/> <p align="right">  Gabriel Victhor Rondon Carneiro, 17 anos.&nbsp; <br> Nasceu em Jaguariúna- SP.&nbsp;  <br>
 &nbsp; Responsável por: Desenvolvimento WebSite e Banco de Dados.&nbsp;
 <br>
 <br>
@@ -129,7 +129,7 @@
 <br>
 <br>
 <br>
-<img src="css/pereira.png" width="200" align="left"/> <p align="left"> &nbsp; Leonardo Pereira Santos e Silva, 18 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
+<img src="img/pereira.png" width="200" align="left"/> <p align="left"> &nbsp; Leonardo Pereira Santos e Silva, 18 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
 &nbsp; Responsável por: Desenvolvimento de Banco de Dados e WebSite.
 <br>
 <br>
@@ -139,7 +139,7 @@
 <br>
 <br>
 <br>
-<img src="css/fabricio.png" width="200" align="right"/> <p align="right">  Fabrício Rodrigues de Moraes, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
+<img src="img/Fabricio.png" width="200" align="right"/> <p align="right">  Fabrício Rodrigues de Moraes, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
 &nbsp; Responsável por: Design e Documentação.&nbsp;
 <br>
 <br>
@@ -149,7 +149,7 @@
 <br>
 <br>
 <br>
-<img src="css/thomas.png" width="200" align="left"/> <p align="left"> &nbsp; Thomas Nicolas Nunes, 18 anos. <br>&nbsp; Nasceu em Mogi Guaçu - SP. <br>
+<img src="img/Thomas.png" width="200" align="left"/> <p align="left"> &nbsp; Thomas Nicolas Nunes, 18 anos. <br>&nbsp; Nasceu em Mogi Guaçu - SP. <br>
 &nbsp; Responsável por: Documentação.
 <br>
 <br>
@@ -165,7 +165,8 @@
 </body>
 </header>
        <div class="wrapper">
- <a href="www.facebook.com"><img src="css/face.png" width="60" /></a>
+<img src="img/rodapi.png" width="600" align="right"/> <p align="right">
+
 <body>
         <div class="push"></div>
       </div>

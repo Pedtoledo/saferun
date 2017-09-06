@@ -78,7 +78,7 @@
         <div class="container" id="maincontent" tabindex="-1">
         
                 <div class="col-md-6">
-                    <img class="img-responsive"  src="css/LOGO SAFE RUN1.png" alt=""/>
+                    <img class="img-responsive"  src="img/logo12.png" alt=""/>
 
                     <div class="intro-text">
                         <hr class="star-light">
