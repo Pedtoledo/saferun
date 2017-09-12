@@ -18,13 +18,7 @@
     <!-- Theme CSS -->
     <link href="css/freelancer.css" rel="stylesheet" type="text/css"/>
     <link href="css/leoindex1.css" rel="stylesheet" type="text/css"/>
-=======
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
 
-    <!-- Theme CSS -->
-    <link href="css/freelancer.css" rel="stylesheet" type="text/css"/>
-    <link href="css/leoindex.css" rel="stylesheet" type="text/css"/>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
     <link href="css/botao.css" rel="stylesheet" type="text/css"/>
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -59,7 +53,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-<<<<<<< HEAD
+
                        <li class="hidden">
                         <a href="#page-top "></a>
                     </li>
@@ -67,22 +61,20 @@
                          <li class="page-scroll">
                         <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
                 
-=======
+
                     
                    
                     <li class="page-scroll">
                         <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
                     
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                     </li>
                     
                    <li class="page-scroll">
                         <a href="/contato">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
-<<<<<<< HEAD
+
                     </li>   
-=======
-                    </li>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                     
                 </ul>
             </div>     
@@ -138,22 +130,7 @@
 </html>
 
 </div>
-=======
-    <body>
-<h3>
-    
-     
-        <div class="container">
-            <div class="row">
-        Alguma dica para melhorar o sistema do site ou o designer dele contatenos com um e-mail pelo e-mail : saferuncontato@gmail.com
-        Nós da equipe da Safe run pedimos desculpa por qualquer acontecido que tenha sido desconfortante ou que atrapalhou você com sua  viagem.</p> 
-        </br>
-        Se tiver reclamações contra algum usuario especifique qual foi o ocorrido quando (data e hora)se ele estava dando carona ou estava pegando e o nome do usuario e mande um e-mail para : saferuncontato@gmail.com<p>
-        
-        <h3>
-            </div>
-            </div>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
             </body>
       </header>
              <div class="wrapper">

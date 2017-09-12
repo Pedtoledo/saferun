@@ -1,21 +1,5 @@
-<<<<<<< HEAD
-=======
-<div class="container">
-    <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <div class="panel panel-default">
-                <div class="panel-heading"></div>
 
 
-                <div class="panel-body">
-Voce Logou com Sucesso
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<html lang="en">
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 
 <head>
 
@@ -62,17 +46,13 @@ Voce Logou com Sucesso
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
   
                 <ul class="nav navbar-nav navbar-right">
-<<<<<<< HEAD
-               <li class="page-scroll">
+          <li class="page-scroll">
                         <a href="/caronas">Todas as caronas <span class="glyphicon glyphicon-eye-open"></span></a></a>
                     </li>
 
                     <li class="page-scroll">
 
-=======
-              
-                    <li class="page-scroll">
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                         <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
                 
                     </li>
@@ -82,25 +62,11 @@ Voce Logou com Sucesso
                     </li>
             
 
-<<<<<<< HEAD
+
                 </ul>
                 
               
-=======
 
-                   <form class="navbar-form navbar-left" method="POST" action="{{ route('pesquisa')}}">
-                 {{csrf_field()}}
-        <div class="form-group">
-          <input type="text" class="form-control" name="pesquisar" placeholder="Pesquisar">
-        </div>
-        <button type="submit" class="btn btn-default "><i class="glyphicon glyphicon-search"></i></button>
-      </form>
-
-         
-                </ul>
-                
-            </div>     
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
           
            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
@@ -109,21 +75,19 @@ Voce Logou com Sucesso
 
                                 <ul class="dropdown-menu" role="menu">
                                     <li>
-<<<<<<< HEAD
+
                                      <a href="/perfil">
                                         Meu perfil
                                         </a>
-=======
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                                         <a href="{{ route('logout') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                                             Sair
                                         </a>
-<<<<<<< HEAD
+
                                        
-=======
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
 
                                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                             {{ csrf_field() }}
@@ -131,25 +95,19 @@ Voce Logou com Sucesso
                                     </li>
                                 </ul>
                             </li>
-<<<<<<< HEAD
+
                          
-=======
-                            </div>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
       
     </nav>
    
 </body>
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
  <div class="container">
 
         <div class="row">
             <div class="col-lg-12">
-<<<<<<< HEAD
+
             <br>
              <br>
               <br>
@@ -160,11 +118,7 @@ Voce Logou com Sucesso
                 <h1 class="page-header">Descrição da Carona        
                     <div class=text-right>
                       <a href="/caronas/create" <span class="glyphicon glyphicon-road"></span></a>
-=======
-                <h1 class="page-header">Descrição da Carona        
-                    <div class=text-right>
-                      <a href="/carona" <span class="glyphicon glyphicon-road"></span></a>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                     </div>
              
             </div>
@@ -240,11 +194,9 @@ Voce Logou com Sucesso
     </header>
      
    <!-- jQuery -->
-<<<<<<< HEAD
+
   <script src="vendor/jquery/jquery.min.js"></script>
-=======
-    <script src="vendor/jquery/jquery.min.js"></script>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
 
     <!-- Bootstrap Core JavaScript -->
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
@@ -261,11 +213,6 @@ Voce Logou com Sucesso
 <script src="{{ asset('js/app.js') }}"></script>
 
 
-<<<<<<< HEAD
-</html>
-=======
+
 </html>
 
-
-
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c

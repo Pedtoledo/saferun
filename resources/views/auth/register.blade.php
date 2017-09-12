@@ -37,11 +37,9 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>   
-<<<<<<< HEAD
+
                 <a class="navbar-brand" href="/login">Safe Run</a>
-=======
-                <a class="navbar-brand" href="#page-top">Safe Run</a>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
             
               <img src="css/LOGO SAFE RUN1.png" width="60" alt=""/>
             </div>
@@ -53,19 +51,13 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-<<<<<<< HEAD
+
                         <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
                     
                     </li>
                     <li class="page-scroll">
                         <a href="/contato">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
-=======
-                        <a href="contato.php">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
-                    
-                    </li>
-                    <li class="page-scroll">
-                        <a href="contato.php">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                     </li>
                     
                 </ul>
@@ -83,11 +75,10 @@
              <h1>Faça seu Registro </h1>
              <br>
              <br>
-<<<<<<< HEAD
 
-=======
-              <br>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
+
+
             <form class="form-horizontal" method="POST" action="{{ route('register') }}">
 
         {{ csrf_field() }}
@@ -95,11 +86,9 @@
    <div class="col-md-4">
      <div class="form-group ">
            <label for="inputname" </label>
-<<<<<<< HEAD
+
       <input type="text" id="inputname" class="form-control" name="name"  value="{{ old('name')}}" placeholder="Nome"  required>
-=======
-      <input type="text" id="inputname" class="form-control" name="name"  placeholder="Nome"  required>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
       </div>  
          
         <div class="form-group ">
@@ -127,20 +116,7 @@
     <strong>{{$errors->first('cpf')}}</strong>
     </span>
     @endif
-=======
-      <input type="text" id="inputsobrenome" class="form-control" name="sobrenome" placeholder="Sobrenome"  required>
-      </div>  
 
-        <div class="form-group ">
-               <label for="inputemail" </label>
-      <input type="text" id="inputemail" class="form-control" name="email" placeholder="E-mail" required>
-      </div>  
-                
-
-        <div class="form-group ">
-               <label for="inputCpf" </label>
-      <input type="text" id="inputcpf" class="form-control" name="cpf" placeholder="CPF" OnKeyPress="formatar('###.###.###-##', this)" maxlength="14" required>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
       </div>  
 
         <div class="form-group ">
@@ -160,17 +136,7 @@
         <div class="form-group ">
           <label for="password" </label>
       <input type="password" id="password" class="form-control" name="password_confirmation" placeholder="Confirme sua senha" required>
-=======
-      <input type="text" id="inputrg" class="form-control" name="rg" placeholder="RG"OnKeyPress="formatar('##.###.###-#', this)" maxlength="12" required>
-      </div>  
- <div class="form-group ">
-          <label for="inputpassword" </label>
-      <input type="password" id="inputpassword" class="form-control" name="password" placeholder="Senha" required>
-      </div>  
-        <div class="form-group ">
-          <label for="inputpassword" </label>
-      <input type="password" id="inputpassword" class="form-control" name="password_confirmation" placeholder="Confirme sua senha" required>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
       </div>  
                  <br>
                  <button type="submit" class="btn btn-success">

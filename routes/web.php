@@ -19,9 +19,6 @@ Route::get('sobre', 'SiteController@sobre')->name('sobre');
 Auth::routes();
 Route::resource('caronas', 'CaronaController');
 Route::get('/home', 'HomeController@index')->name('home');
-<<<<<<< HEAD
 Route::post('pesquisa', 'SiteController@pesquisar')->name('pesquisa');
 Route::post('/enviar', 'ContatoController@enviaContato');
-=======
-Route::post('pesquisa', 'SiteController@pesquisar')->name('pesquisa');
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+

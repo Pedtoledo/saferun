@@ -19,11 +19,9 @@ class CreateUsersTable extends Migration
             $table->string('email')->unique();
             $table->string('password');
              $table->string('sobrenome');
-<<<<<<< HEAD
+
               $table->string('cpf')->unique();
-=======
-              $table->string('cpf');
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                $table->string('rg');
                  $table->rememberToken();
             $table->timestamps();

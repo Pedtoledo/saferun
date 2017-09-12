@@ -6,10 +6,7 @@
     ],
 <<<<<<< HEAD
     "content-hash": "50170d9ac94d76f3ee48b0aaa5478bb3",
-=======
-    "hash": "4e658eeb6017507eaaf727283037257f",
-    "content-hash": "ecb7f9d66d9a9f1f33dd5b852db3e88f",
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -449,11 +446,10 @@
                 "framework",
                 "laravel"
             ],
-<<<<<<< HEAD
+
             "time": "2017-08-30T09:26:16+00:00"
-=======
-            "time": "2017-08-14 20:17:41"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
+
         },
         {
             "name": "laravel/tinker",
@@ -825,11 +821,9 @@
                 "parser",
                 "php"
             ],
-<<<<<<< HEAD
+
             "time": "2017-09-02T17:10:46+00:00"
-=======
-            "time": "2017-07-28 14:45:09"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "paragonie/random_compat",
@@ -1201,11 +1195,9 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-08-27T14:52:21+00:00"
-=======
-            "time": "2017-07-29 21:27:59"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+c
         },
         {
             "name": "symfony/css-selector",
@@ -1258,11 +1250,9 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-05-01 15:01:29"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/debug",
@@ -1318,11 +1308,9 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-08-27T14:52:21+00:00"
-=======
-            "time": "2017-07-28 15:27:31"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1385,11 +1373,9 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-06-09 14:53:08"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/finder",
@@ -1438,11 +1424,9 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-06-01 21:01:25"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/http-foundation",
@@ -1495,11 +1479,9 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-08-10T07:07:06+00:00"
-=======
-            "time": "2017-07-21 11:04:46"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/http-kernel",
@@ -1585,11 +1567,9 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-08-28T22:35:03+00:00"
-=======
-            "time": "2017-08-01 10:25:59"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1648,11 +1628,9 @@
                 "portable",
                 "shim"
             ],
-<<<<<<< HEAD
+
             "time": "2017-06-14T15:44:48+00:00"
-=======
-            "time": "2017-06-09 14:24:12"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/process",
@@ -1701,11 +1679,9 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-07-13 13:05:09"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/routing",
@@ -1783,11 +1759,8 @@
                 "uri",
                 "url"
             ],
-<<<<<<< HEAD
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-07-21 17:43:13"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/translation",
@@ -1852,11 +1825,9 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-06-24 16:45:30"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "symfony/var-dumper",
@@ -1924,11 +1895,9 @@
                 "debug",
                 "dump"
             ],
-<<<<<<< HEAD
+
             "time": "2017-08-27T14:52:21+00:00"
-=======
-            "time": "2017-07-28 06:06:09"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -2594,11 +2563,9 @@
                 "spy",
                 "stub"
             ],
-<<<<<<< HEAD
+
             "time": "2017-09-04T11:05:03+00:00"
-=======
-            "time": "2017-03-02 20:05:34"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -3556,11 +3523,9 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
+
             "time": "2017-07-29T21:54:42+00:00"
-=======
-            "time": "2017-07-23 12:43:26"
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
         },
         {
             "name": "webmozart/assert",

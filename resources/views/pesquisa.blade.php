@@ -50,10 +50,9 @@
                     </li>
                     
                    <li class="page-scroll">
-<<<<<<< HEAD
+
                        
-=======
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                         <a href="/contato">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
                     </li>
               <form class="navbar-form navbar-left" method="POST" action="{{ route('pesquisa')}}">
@@ -61,43 +60,37 @@
         <div class="form-group">
           <input type="text" class="form-control" name="pesquisar" placeholder="Pesquisar">
         </div>
-<<<<<<< HEAD
+
         <button type="submit" class="btn btn-success "><i class="glyphicon glyphicon-search"></i></button>
-=======
-        <button type="submit" class="btn btn-default "><i class="glyphicon glyphicon-search"></i></button>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
       </form>
 
                 </ul>
                 
             </div>     
           
-<<<<<<< HEAD
+
          <li class="dropdown">
-=======
-           <li class="dropdown">
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
                                     {{ Auth::user()->name }} <span class="caret"></span>
                                 </a>
 
                                 <ul class="dropdown-menu" role="menu">
                                     <li>
-<<<<<<< HEAD
+
                                      <a href="/perfil">
                                         Meu perfil
                                         </a>
-=======
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                                         <a href="{{ route('logout') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                                             Sair
                                         </a>
-<<<<<<< HEAD
+
                                        
-=======
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
 
                                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                             {{ csrf_field() }}
@@ -118,11 +111,9 @@
  <table>
  
              @foreach($dados as $dado)
-<<<<<<< HEAD
+
  {{$dado->nome}}
-=======
- {{$dado->name}} {{$dado->sobrenome}}
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
  </table>
 @endforeach
 </div>

@@ -55,24 +55,19 @@
                         <a href="#page-top "></a>
                     </li>
         
-<<<<<<< HEAD
+
                          <li class="page-scroll">
                         <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
                 
-=======
-                    <li class="page-scroll">
-                        <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
+
                     
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
                     </li>
                     
                    <li class="page-scroll">
                         <a href="/contato">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
-<<<<<<< HEAD
-                    </li>   
-=======
-                    </li>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
+
+
                     
                 </ul>
             </div>     
@@ -88,19 +83,13 @@
         <div class="container" id="maincontent" tabindex="-1">
         
                 <div class="col-md-6">
-<<<<<<< HEAD
+
                     <img class="img-responsive"  src="css/LOGO SAFE RUN1.png" alt=""/>
 
                     <div class="intro-text">
                         <hr class="star-light">
                         <span class="skills">Sua carona segura</span>
-=======
-                    <img class="img-responsive"  src="img/logo12.png" alt=""/>
 
-                    <div class="intro-text">
-                        <hr class="star-light">
-                        <span class="skills">Sua carona Segura</span>
->>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
                     </div>
         
                 </div>
