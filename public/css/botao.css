@@ -1,9 +1,10 @@
 
 .btn-safe {
- font-family: C;
-  color: #fff;
+
+  color:white;
   background-color: #4288A0;
   border-color: #337ab7;
+  font-weight: 700;
 }
 
 .btn-safe:focus,

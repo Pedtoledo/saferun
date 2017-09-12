@@ -52,12 +52,7 @@
                     <li class="page-scroll">
                         <a href="contato.php">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
                     </li>
-                     <form class="navbar-form navbar-right">
-            <input type="text" class="form-control" placeholder="Pequisar...">
-     
-             
-             <button type="submit" class="btn btn-success"><span class="glyphicon glyphicon-search"></span>  </button>
-                     </form>
+                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -84,7 +79,7 @@
 
             <div class="col-md-8">
                
-                <img src="img/12.jpg" width="500" alt=""/>
+                <img src="css/12.jpg" width="500" alt=""/>
             </div>
 
             <div class="col-md-4">
@@ -111,25 +106,25 @@
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#">
-                    <img class="img-responsive portfolio-item" src="img/12.jpg" alt="">
+                    <img class="img-responsive portfolio-item" src="css/12.jpg" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#">
-                     <img class="img-responsive portfolio-item" src="img/12.jpg" alt="">
+                     <img class="img-responsive portfolio-item" src="css/12.jpg" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#">
-                    <img class="img-responsive portfolio-item" src="img/12.jpg" alt="">
+                    <img class="img-responsive portfolio-item" src="css/12.jpg" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="">
-                    <img class="img-responsive portfolio-item" src="img/Logo safe run.png" alt=""/>
+                    <img class="img-responsive portfolio-item" src="css/Logo safe run.png" alt=""/>
                 </a>
             </div>
 

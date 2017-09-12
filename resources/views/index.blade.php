@@ -12,8 +12,8 @@
     <title>SAFE RUN</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
-
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>  
+    
     <!-- Theme CSS -->
     <link href="css/freelancer.css" rel="stylesheet" type="text/css"/>
     <link href="css/leoindex.css" rel="stylesheet" type="text/css"/>
@@ -51,18 +51,15 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll">
+                    
                    
                     <li class="page-scroll">
-                        <a href="contato.php">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
+                        <a href="/sobre">Sobre nós <span class="glyphicon glyphicon-info-sign"></span></a></a>
                     
                     </li>
                     
                    <li class="page-scroll">
-                        <a href="contato.php">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
+                        <a href="/contato">Contate-nos <span class="glyphicon glyphicon-comment"></span></a></a>
                     </li>
                     
                 </ul>
@@ -71,14 +68,14 @@
         </div>
         <!-- /.container-fluid -->
     </nav>
-    <li><a href="/sobre">Sobre nós</a></li> 
+    
 </body>
     <!-- Header -->
     <header>
         <div class="container" id="maincontent" tabindex="-1">
             <br>
                 <div class="col-md-6">
-                    <img class="img-responsive"  src="img/LOGO SAFE RUN1.png" alt=""/>
+                    <img class="img-responsive"  src="css/LOGO SAFE RUN1.png" alt=""/>
                    
                     
                     <div class="intro-text">
@@ -87,43 +84,49 @@
                     </div>
         
                 </div>
-
-        <div class="col-md-6"></div>
-        <form>
-            <br>
-            <br>
-            <br>
-            <br>
-            
-             <h2>Login</h2>
-             <div class="form-group">
+<br>
+<br>
+<br>
+<br>
+            <div class="form-group">
+             <h3>Login</h3>
+              <form class="form-horizontal" method="POST" action="{{ route('login') }}">
+                        {{ csrf_field() }}
+                      
              <label for="inputUsuario" </label>
-      <input type="email" id="inputUsuario" class="form-control" placeholder="Usuário" required>
+      <input type="email" id="inputUsuario" class="form-control" name="email" placeholder="Usuário" required>
+      
       </div>  
-            
+             @if ($errors->has('email'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('email') }}</strong>
+                                    </span>
+                                @endif
       <div class="form-group">
         <label for="inputPassword"Senha </label>
-        <input type="password" id="inputSenha" class="form-control" placeholder="Senha" required > 
-        <br>
-           
-              <div class="text-right">
-        <a href="senha.php" title="Esqueceu a senha">Esqueceu sua senha?</a>
-        </div>    
-        <br>
-        <div class="text-right">
-            <a class="btn btn-md btn-safe"href="registro.php">Cadastrar</a>
-        <button type="submit" class="btn btn-md btn-primary">Acessar</button>
+        <input type="password" id="inputSenha" class="form-control" name="password" placeholder="Senha" required > 
+      
+                               
       </div>
-        <br>
-  </div> 
+       @if ($errors->has('password'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('password') }}</strong>
+                                    </span>
+                                @endif
     
-    <br>
- 
-              
-           
-               
+   <a class="btn btn-link" href="{{ route('password.request') }}">
+                                    Esqueceu sua senha?
+                                </a>       
+        <br>
+       
+            <a class="btn btn-md btn-safe"href="/register">Cadastrar</a>
+        <button type="submit" class="btn btn-primary">
+                                    Login
+                                </button>
+    
+   </form>
                  
-        </div>
+       
 
        </header>
    <!-- jQuery -->

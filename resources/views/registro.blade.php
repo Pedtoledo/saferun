@@ -36,7 +36,7 @@
                 </button>   
                 <a class="navbar-brand" href="#page-top">Safe Run</a>
             
-              <img src="img/LOGO SAFE RUN1.png" width="60" alt=""/>
+             <img src="css/LOGO SAFE RUN1.png" width="60" alt=""/>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -70,7 +70,9 @@
              <br>
              <br>
               <br>
-           
+            <form class="form-horizontal" method="POST" action="{{ route('register') }}">
+                        {{ csrf_field() }}
+
    <div class="col-md-4">
        <form method="post"> 
      <div class="form-group ">
@@ -132,6 +134,14 @@
             <strong>Senha:</strong> 
 <input type="password"class="form-control" placeholder="Senha" id="senha" required>
      </div>
+
+                        <div class="form-group">
+                            <label for="password-confirm" class="col-md-4 control-label">Confirmação de Senha</label>
+
+                            <div class="col-md-6">
+                                <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
+                            </div>
+                        </div>
                  <fieldset id="sexo">
                     <legend>Sexo:</legend>
                         <input type="radio" name="tsexo" id="cmasc" required/><label for="cmasc">Masculino

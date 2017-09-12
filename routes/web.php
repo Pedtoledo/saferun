@@ -12,11 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('/auth/login');
+    return view('auth/login');
 });
 Route::get('contato', 'SiteController@contato')->name('contato');
 Route::get('sobre', 'SiteController@sobre')->name('sobre');
-
 Auth::routes();
-
+Route::resource('caronas', 'CaronaController');
 Route::get('/home', 'HomeController@index')->name('home');
+Route::post('pesquisa', 'SiteController@pesquisar')->name('pesquisa');
+Route::post('/enviar', 'ContatoController@enviaContato');

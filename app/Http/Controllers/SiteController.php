@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class SiteController extends Controller
 {
@@ -17,10 +18,18 @@ class SiteController extends Controller
        
         return view('contato');
     }
+   
 
-    public function pesquisa()
+    public function pesquisar(Request $request)
     {
-       
-
+          $dados = DB::table('caronas')
+                ->where('nome', 'like', '%'.$request->pesquisar.'%')
+                ->get();
+              
+        return view('pesquisa', compact('dados'));
+        
+              
+    
     }
-    }
+}
+?>

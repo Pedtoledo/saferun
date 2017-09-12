@@ -43,7 +43,7 @@
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>   
                 <a class="navbar-brand" href="#page-top">Safe Run</a>
-                <img src="img/LOGO SAFE RUN1.png" width="60" alt=""/>
+                <img src="css/carrinho.png" width="70" alt=""/>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -99,7 +99,13 @@
    </div>
         </div>
              </header>
-    
+           <div class="wrapper">
+ <a href="www.facebook.com"><img src="css/face.png" width="60" /></a>
+<body>
+        <div class="push"></div>
+      </div>
+      <footer class="footer"></footer>
+      </body>
     <script src='https://www.google.com/recaptcha/api.js'></script>
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
