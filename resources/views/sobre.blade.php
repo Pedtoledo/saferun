@@ -16,7 +16,11 @@
 
     <!-- Theme CSS -->
     <link href="css/freelancer.css" rel="stylesheet" type="text/css"/>
+<<<<<<< HEAD
     <link href="css/leoindex1.css" rel="stylesheet" type="text/css"/>
+=======
+    <link href="css/leoindex.css" rel="stylesheet" type="text/css"/>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
     <link href="css/botao.css" rel="stylesheet" type="text/css"/>
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -64,15 +68,21 @@
                     
                 </ul>
             </div>     
+<<<<<<< HEAD
                 
             <!-- /.navbar-collapse -->
         </div>
         
+=======
+            <!-- /.navbar-collapse -->
+        </div>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
         <!-- /.container-fluid -->
     </nav>
     
 </body>      
 <header>
+<<<<<<< HEAD
      <body>
     <div class="container " >
 <div class="row">
@@ -80,6 +90,14 @@
 <div class="text-left">
   <h1>Sobre a equipe </h1>
   </div>
+=======
+    <body>
+    <div class="container " >
+<div class="row">
+  <div class="col col-md-6">
+
+  <h1>Sobre a equipe :</h1>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 </div>
 </div>
 
@@ -92,7 +110,11 @@
 
 
 
+<<<<<<< HEAD
 <img src="img/leo.png" width="200" align="left"/> <p align="left"><br><br> &nbsp; Leonardo Vieira, 17 anos. <br>&nbsp; Nasceu em Mogi Mirim - SP. <br>
+=======
+<img src="img/Vieira.png" width="200" align="left"/> <p align="left"> &nbsp; Leonardo Vieira, 17 anos. <br>&nbsp; Nasceu em Mogi Mirim - SP. <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Programação de WebSite e Desenvolvimento de WebSite 
 <br>
 <br>
@@ -102,7 +124,11 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <img src="img/toledo.png" width="200" align="right"/> <p align="right"><br><br>  Pedro Henrique Toledo, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
+=======
+<img src="img/Toledo.png" width="200" align="right"/> <p align="right"> Pedro Henrique Toledo, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Programação de WebSite e Banco de Dados.&nbsp;
 <br>
 <br>
@@ -112,7 +138,11 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <img src="img/adriana.png" width="200" align="left"/> <p align="left"> <br><br>  &nbsp; Adriana Silva Vilanova, 17 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
+=======
+<img src="img/adriana.png" width="200" align="left"/> <p align="left"> &nbsp; Adriana Silva Vilanova, 17 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Design e Documentação.
 <br>
 <br>
@@ -122,7 +152,11 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <img src="img/gabriel.png" width="200" align="right"/> <p align="right"> <br><br>  Gabriel Victhor Rondon Carneiro, 17 anos.&nbsp; <br> Nasceu em Jaguariúna- SP.&nbsp;  <br>
+=======
+<img src="img/gabriel.png" width="200" align="right"/> <p align="right">  Gabriel Victhor Rondon Carneiro, 17 anos.&nbsp; <br> Nasceu em Jaguariúna- SP.&nbsp;  <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Desenvolvimento WebSite e Banco de Dados.&nbsp;
 <br>
 <br>
@@ -132,7 +166,11 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <img src="img/pereira.png" width="200" align="left"/> <p align="left"><br><br>  &nbsp; Leonardo Pereira Santos e Silva, 18 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
+=======
+<img src="img/pereira.png" width="200" align="left"/> <p align="left"> &nbsp; Leonardo Pereira Santos e Silva, 18 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Desenvolvimento de Banco de Dados e WebSite.
 <br>
 <br>
@@ -142,7 +180,11 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <img src="img/fabricio.png" width="200" align="right"/> <p align="right"> <br><br>  Fabrício Rodrigues de Moraes, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
+=======
+<img src="img/Fabricio.png" width="200" align="right"/> <p align="right">  Fabrício Rodrigues de Moraes, 17 anos.&nbsp; <br> Nasceu em Mogi Mirim- SP.&nbsp;  <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Design e Documentação.&nbsp;
 <br>
 <br>
@@ -152,7 +194,11 @@
 <br>
 <br>
 <br>
+<<<<<<< HEAD
 <img src="img/thomas.png" width="200" align="left"/> <p align="left"><br><br>  &nbsp; Thomas Nicolas Nunes, 18 anos. <br>&nbsp; Nasceu em Mogi Guaçu - SP. <br>
+=======
+<img src="img/Thomas.png" width="200" align="left"/> <p align="left"> &nbsp; Thomas Nicolas Nunes, 18 anos. <br>&nbsp; Nasceu em Mogi Guaçu - SP. <br>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 &nbsp; Responsável por: Documentação.
 <br>
 <br>
@@ -171,14 +217,18 @@
 <img src="img/rodapi.png" width="600" align="right"/> <p align="right">
 
 <body>
+<<<<<<< HEAD
 </header>
        <div class="wrapper">
  <a href="www.facebook.com"><img src="css/face.png" width="60" /></a>
 <body>
+=======
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
         <div class="push"></div>
       </div>
       <footer class="footer"></footer>
       </body>
+<<<<<<< HEAD
       
   <script src="vendor/jquery/jquery.min.js"></script>
 
@@ -199,6 +249,9 @@
 
 </html>
 
+=======
+      </html>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 
                     
                

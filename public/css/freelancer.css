@@ -38,6 +38,10 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
+<<<<<<< HEAD
+=======
+  border-radius: 100px;
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 }
 header .intro-text .name {
   display: block;

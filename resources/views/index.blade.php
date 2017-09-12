@@ -45,7 +45,11 @@
                 </button>   
                 <a class="navbar-brand" href="#page-top">Safe Run</a>
             
+<<<<<<< HEAD
               <img src="css/LOGO SAFE RUN1.png" width="60" alt=""/>
+=======
+              <img src="img/logo12.png" width="60" alt=""/>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -75,7 +79,11 @@
         <div class="container" id="maincontent" tabindex="-1">
             <br>
                 <div class="col-md-6">
+<<<<<<< HEAD
                     <img class="img-responsive"  src="css/LOGO SAFE RUN1.png" alt=""/>
+=======
+                    <img class="img-responsive"  src="img/logo12.png" alt=""/>
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
                    
                     
                     <div class="intro-text">

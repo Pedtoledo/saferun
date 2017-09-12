@@ -8,8 +8,14 @@
 
 header {
     text-align: center;
+<<<<<<< HEAD
     background: black;
     color: white;
+=======
+    background: #A4A4A4;
+    color: #1E2235;
+    font-family: "Avantgarde", Helvetica, Arial, sans-serif;
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
 }
 
 html,

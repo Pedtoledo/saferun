@@ -51,10 +51,14 @@ class RegisterController extends Controller
             'name' => 'required|string|max:255',
             'email' => 'required|string|email|max:255|unique:users',
             'password' => 'required|string|min:6|confirmed',
+<<<<<<< HEAD
             'cpf' => 'required|string|cpf|unique:users',
             'sobrenome' => 'required|string',
             'rg' => 'required|string|unique:users',
 
+=======
+            
+>>>>>>> ea90b098c996fac77bcc3d29dad4e173b4dea60c
         ]);
     }
 
