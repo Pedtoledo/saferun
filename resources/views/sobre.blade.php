@@ -122,7 +122,7 @@
 <br>
 <br>
 <br>
-<<<<<<< HEAD
+
 <img src="img/adriana.png" width="200" align="left"/> <p align="left"> <br><br>  &nbsp; Adriana Silva Vilanova, 17 anos. <br>&nbsp; Nasceu em São Paulo - SP. <br>
 
 &nbsp; Responsável por: Design e Documentação.

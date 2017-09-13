@@ -93,7 +93,7 @@
          
         <div class="form-group ">
              <label for="inputsobrenome" </label>
-<<<<<<< HEAD
+
       <input type="text" id="inputsobrenome" class="form-control" name="sobrenome" value="{{ old('sobrenome')}}" placeholder="Sobrenome"  required>
       </div>  
 
@@ -121,7 +121,7 @@
 
         <div class="form-group ">
                <label for="inputrg" </label>
-<<<<<<< HEAD
+
       <input type="text" id="inputrg" class="form-control" name="rg" value="{{ old('rg')}}" placeholder="RG"OnKeyPress="formatar('##.###.###-#', this)" maxlength="12" required>
       </div>  
    <div class="form-group {{$errors->has('password') ? ' has-error' : ''}}">

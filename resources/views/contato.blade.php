@@ -12,7 +12,7 @@
     <title>SAFE RUN</title>
 
     <!-- Bootstrap Core CSS -->
-<<<<<<< HEAD
+
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>  
     
     <!-- Theme CSS -->
@@ -85,7 +85,6 @@
     
 </body>
 <header>
-<<<<<<< HEAD
 
     <body>
  
