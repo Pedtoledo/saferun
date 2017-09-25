@@ -14,9 +14,9 @@
 |* Sistema de avaliação;                                                 |
 |Gabriel Vichtor, Thomas Nunes,Pedro  Toledo, Leonardo Vieira            |
 |------------------------------------------------------------------------|
-|* Terminar e Arrumar o HTML;                                            |
+|* Terminar e Arrumar os detalhes na parte de CSS e HTML;                |
 |Adriana Vilanova, Fabricio Morais, Leonardo Pereira,Gabriel Vichtor     |
 |------------------------------------------------------------------------|
-|*Terminar e Arrumar o PHP;                                              |
+|*Terminar e Arrumar erros bugs relacionados em processamento em PHP     |
 |Leonardo Vieira, Pedro Toledo                                           |
 |------------------------------------------------------------------------|
