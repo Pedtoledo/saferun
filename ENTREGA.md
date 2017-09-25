@@ -1,22 +1,22 @@
 |------------------------------------------------------------------------|
 |* Cadastro de Carona;                                                   |
-|Pedro Henrique Toledo, Leonardo Vieira, Leonardo Pereira                |
+|Pedro Toledo, Leonardo Vieira, Leonardo Pereira,Leonardo Vieira         |
 |------------------------------------------------------------------------|
 |* Função de administrador;                                              |
-|Leonardo Pereira, Thomas Nunes, Fabricio Morais, Pedro Henrique Toledo  |
+|Leonardo Pereira, Thomas Nunes, Fabricio Morais, Pedro Toledo           |
 |------------------------------------------------------------------------|
 |* Pagina do Usuario;                                                    |
-|Adriana Vilanova, Fabricio Morais, Leonardo Vieira                      |
+|Adriana Vilanova, Fabricio Morais, Leonardo Vieira, Pedro Toledo        |
 |------------------------------------------------------------------------|
 |* Pagina de carona;                                                     |
-|Thomas Nunes, Gabriel Vichtor, Pedro Henrique Toledo                    |
+|Thomas Nunes, Gabriel Vichtor, Pedro  Toledo, Leonardo Vieira           |
 |------------------------------------------------------------------------|
 |* Sistema de avaliação;                                                 |
-|Leonardo Pereira, Gabriel Vichtor, Thomas Nunes                         |
+|Gabriel Vichtor, Thomas Nunes,Pedro  Toledo, Leonardo Vieira            |
 |------------------------------------------------------------------------|
 |* Terminar e Arrumar o HTML;                                            |
-|Adriana Vilanova, Fabricio Morais, Leonardo Pereira                     |
+|Adriana Vilanova, Fabricio Morais, Leonardo Pereira,Gabriel Vichtor     |
 |------------------------------------------------------------------------|
 |*Terminar e Arrumar o PHP;                                              |
-|Leonardo Vieira, Pedro Henrique Toledo                                  |
+|Leonardo Vieira, Pedro Toledo                                           |
 |------------------------------------------------------------------------|
