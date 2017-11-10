@@ -1,0 +1,42 @@
+.navbar-custom {
+    background: #1E2235;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+}
+
+header {
+    text-align: center;
+    background: #ECE9EA;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: black;
+}
+
+.imgExpande {
+    list-style: none;
+    padding: 0;
+}
+
+.imgExpande li {
+    display: inline;
+}
+
+.imgExpande img {
+    width: 300px;
+    /* Aqui é o tamanho da imagem */
+    margin-left: 10px;
+    /* Espaço entre as imagem */
+    -webkit-transition: 1s all ease;
+    /* É para pega no Chrome e Safira */
+    -moz-transition: 1s all ease;
+    /* Firefox */
+    -o-transition: 1s all ease;
+    /* Opera */
+}
+
+.imgExpande img:hover {
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+}
